@@ -1,8 +1,4 @@
-// Author:    Build Rise Shine with Nyros (BRS)
-// Created:   11.05.2022
-// Library / Component: Home Page
-// Description: Main page  for the app
-// (c) Copyright by BRS Studio | Build Rise Shine.
+
 
 import React, { useState, useEffect, useRef } from "react";
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
